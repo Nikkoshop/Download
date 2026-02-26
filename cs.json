@@ -1,8 +1,9 @@
 {
-    "name": "LikDev-256 Providers Repository",
-    "description": "Tamil and Indian language Providers",
+    "name": "Pamuk Tv Repository",
+    "description": "Türkçe and English language Providers",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://codeberg.org/JakeWasHere7/likdev256-tamil-providers/raw/branch/builds/plugins.json"
+        "https://raw.githubusercontent.com/Nikkoshop/Download/refs/heads/main/plugins.json"
     ]
 }
+
