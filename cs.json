@@ -1,6 +1,8 @@
 {
-    "name": "Benim Özel Listem",
-    "description": "Film ve Canlı TV Kaynaklarım",
+    "name": "PamukTv",
+    "description": "Özel Film ve Kanal Listem",
+    "manifestVersion": 1,
+    "pluginLists": [],
     "metadata": [
         {
             "name": "HD Film Cehennemi",
