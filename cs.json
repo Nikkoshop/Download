@@ -1,23 +1,13 @@
-{
-    "name": "PamukTv",
-    "description": "Özel Film ve Kanal Listem",
-    "manifestVersion": 1,
-    "pluginLists": [],
-    "metadata": [
-        {
-            "name": "HD Film Cehennemi",
-            "url": "https://www.hdfilmcehennemi.nl/",
-            "type": "provider"
-        },
-        {
-            "name": "Power Sinema (M3U)",
-            "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
-            "type": "iptv"
-        },
-        {
-            "name": "Özel IPTV Listesi",
-            "url": "http://1.portable2030.pro:57050/get.php?username=z9yuCHT5kU&password=wTEAjHCgqv&type=m3u_plus",
-            "type": "iptv"
-        }
-    ]
-}
+[
+  {
+    "name": "HD Film Cehennemi",
+    "url": "https://www.hdfilmcehennemi.nl/",
+    "type": "provider"
+  },
+  {
+    "name": "Power Sinema",
+    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
+    "type": "iptv"
+  }
+]
+
