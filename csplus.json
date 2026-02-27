@@ -1,0 +1,9 @@
+{
+    "name": "Tv Plus 18 Repository",
+    "description": "Türkçe and English language Providers",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/Nikkoshop/Download/refs/heads/main/pluginsplus.json"
+    ]
+}
+
