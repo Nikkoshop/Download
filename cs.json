@@ -1,9 +1,10 @@
 {
     "name": "Pamuk Tv Repository",
     "description": "Türkçe and English language Providers",
-    "manifestVersion": 1,
+    "manifestVersion": 2,
     "pluginLists": [
         "https://raw.githubusercontent.com/Nikkoshop/Download/refs/heads/main/plugins.json"
     ]
 }
+
 
